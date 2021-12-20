@@ -1,0 +1,17 @@
+.gradle
+build/
+*.txt
+*.md
+loader/classes.h
+loader/grabber-1.0.0.jar
+loader/eloader/.vs/
+loader/eloader/output/
+loader/eloader/temp/
+loader/eloader/eloader/classes.h
+
+minecraft-debug/
+output-total/
+
+*.iml
+*.iws
+*.ipr
