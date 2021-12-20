@@ -22,4 +22,4 @@ Makes it possible to get some crafts from server to your local json file.
 1. Compile ( or download released verision )
 2. Inject compiled DLL into Minecraft process
 3. Connect to server and press SHIFT+G
-4. Checkout your home directory ( C:\Users\..\craftsGrabber )
+4. Checkout your home directory ( `C:\Users\..\craftsGrabber` )
